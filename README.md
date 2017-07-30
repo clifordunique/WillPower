@@ -1,15 +1,19 @@
 # WillPower LD39
 
-## Run The Game
+## Run The Game / Links
 
-To run on windows, download the zip and run the exe file in the "WillPower Windows" directory.
+<b>To run on windows,</b> download the zip and run the exe file in the "WillPower Windows" directory.
 
-To run on Web, go to this link:
+<b>To run on Web,</b> go to this link:
 
 https://juicyslew.github.io/WillPower/
 
-<b>Note:</b> Introduction video doesn't work on the web
-Video can be found here:
+<b>Note:</b> Introduction video doesn't work on the web.  The video can be found here:
+
+Lastly, Please Rate this on the Ludum Dare site if you can!  Comments and ratings help me grow and expand my ability as a game developer.
+Thank you!
+
+Ludum Dare Link: 
 
 
 ### PLEASE DOWNLOAD THE GAME IF YOU CAN! IT WORKS BETTER THAT WAY.
