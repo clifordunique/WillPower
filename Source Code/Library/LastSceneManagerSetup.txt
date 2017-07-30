@@ -1,0 +1,28 @@
+sceneSetups:
+- path: Assets/My Scenes/Intro Video.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/My Scenes/Controls.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/My Scenes/OtherInstructions.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/My Scenes/OtherInstructions2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/My Scenes/Instructions.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/My Scenes/Menu.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/My Scenes/Initial.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/My Scenes/GameOver.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/My Scenes/SceneControl.unity
+  isLoaded: 1
+  isActive: 1
