@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WillPower Web.data.unityweb",
+"asmCodeUrl": "WillPower Web.asm.code.unityweb",
+"asmMemoryUrl": "WillPower Web.asm.memory.unityweb",
+"asmFrameworkUrl": "WillPower Web.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

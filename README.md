@@ -11,4 +11,11 @@ When resting you cannot move.
 Rest in designated rest spaces to sleep faster and more efficiently.
 Be strategic, Don't get caught, and make it to the end!
 
+## Run The Game
 
+To run on windows, 
+download the zip and run the exe file in the "WillPower Windows" directory.
+
+While the Introduction doesn't appear to work on web,
+To run on Web,
+go to this link:
