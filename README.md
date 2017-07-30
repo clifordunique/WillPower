@@ -1,5 +1,4 @@
-# WillPower
-Ludum Dare 39 Entry:
+# WillPower LD39
 
 ## Run The Game
 
