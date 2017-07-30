@@ -4,9 +4,7 @@
 
 <b>To run on windows,</b> download the zip and run the exe file in the "WillPower Windows" directory.
 
-<b>To run on Web,</b> go to this link:
-
-https://juicyslew.github.io/WillPower/
+<b>To run on Web,</b> [Click Here](https://juicyslew.github.io/WillPower/)
 
 <b>Note:</b> Introduction video doesn't work on the web.  The video can be found here:
 
