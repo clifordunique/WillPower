@@ -2,18 +2,15 @@
 
 ## Run The Game
 
-To run on windows,
+To run on windows, download the zip and run the exe file in the "WillPower Windows" directory.
 
-download the zip and run the exe file in the "WillPower Windows" directory.
-
-
-While the Introduction doesn't appear to work on web,
-
-To run on Web,
-
-go to this link:
+To run on Web, go to this link:
 
 https://juicyslew.github.io/WillPower/
+
+<b>Note:</b> Introduction video doesn't work on the web
+Video can be found here:
+
 
 ### PLEASE DOWNLOAD THE GAME IF YOU CAN! IT WORKS BETTER THAT WAY.
 
