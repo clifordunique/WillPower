@@ -2,11 +2,11 @@
 
 ## Run The Game / Links
 
-<b>To run on windows,</b> download the zip and run the exe file in the "WillPower Windows" directory.
+<b>To run on windows,</b> [Click Here](https://www.dropbox.com/s/zdjvhx9izlzgr41/WillPower%20Windows.7z?dl=1), or download the zip and run the exe file in the "WillPower Windows" directory
 
 <b>To run on Web,</b> [Click Here](https://juicyslew.github.io/WillPower/)
 
-<b>Note:</b> Introduction video doesn't work on the web.  The video can be found here:
+<b>Note:</b> Introduction video doesn't work on the web.  [The video can be found here](https://youtu.be/oFC3vnZcuZc)
 
 Lastly, Please Rate this on the Ludum Dare site if you can!  Comments and ratings help me grow and expand my ability as a game developer.
 Thank you!
