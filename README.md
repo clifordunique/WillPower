@@ -11,7 +11,7 @@
 Lastly, Please Rate this on the Ludum Dare site if you can!  Comments and ratings help me grow and expand my ability as a game developer.
 Thank you!
 
-Ludum Dare Link: 
+[Ludum Dare Link](https://ldjam.com/events/ludum-dare/39/will-power-1)
 
 
 ### PLEASE DOWNLOAD THE GAME IF YOU CAN! IT WORKS BETTER THAT WAY.
